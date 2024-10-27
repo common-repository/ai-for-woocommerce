@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "允许你用人工智能生成产品描述。"
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "aiflow设置"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "设置"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "检查您的会话状态时发生了一个错误。请重新连接。"
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "你没有登录。"
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "要开始使用我们的人工智能，你必须在我们的平台上用你的账户登录。"
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "点击下面的按钮，与我们连接或创建一个账户。"
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "现在连接你的账户"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "你是连接的。"
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "管理账户"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "断开连接"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "检查与AI的连接..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "您的可用描述"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "剩余的免费描述"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "需要更多的描述吗？"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "现在订阅，每月获得代币。"
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "现在订阅"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "生成新的描述"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "重写当前描述"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "优化描述以利于SEO"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "用人工智能生成描述"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "你准备好向人工智能飞跃了吗？"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "连接到我们的人工智能"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "手动输入描述"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "在处理您在AI上的请求时发生了错误。"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "你没有剩余的点数。请先购买描述学分。"
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "现在购买"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "你只有"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "剩余的代币。我们建议采用更高的数额。"
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "购买更多代币"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "继续反正"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "你的授权似乎是无效的。"
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "再次连接到AI"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "你的订阅并不包括这一行动。"
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "现在升级"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "关闭"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "请先输入一个标题。"
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "为这个产品写一个长而独特的产品描述。"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "选择文本语气。"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "无所谓"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "暖气片"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "专业人员"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "正式的"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "表达能力"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "兴奋的"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "鼓舞人心"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "重写这一描述，使其具有独特性。"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "将这个独特的文本重写在一个"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "声调"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "优化时要记住这些关键词。"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "关键字1，关键字2，关键字3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "优化搜索引擎"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "优化该产品描述以利于SEO。"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "为SEO优化此描述，并使用关键词"

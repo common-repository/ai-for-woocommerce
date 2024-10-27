@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Umožňuje vytvárať popisy produktov pomocou umelej inteligencie."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "Nastavenia aiflow"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "Pri kontrole stavu relácie došlo k chybe. Pripojte sa prosím znova."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Nie ste prihlásený."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Ak chcete začať používať našu umelú inteligenciu, musíte sa prihlásiť pomocou svojho účtu na našej platforme."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Kliknutím na tlačidlo nižšie sa k nám pripojíte alebo si vytvoríte účet."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Pripojte svoje konto teraz"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Ste pripojení."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Správa účtu"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Odpojenie"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Kontrola pripojenia k AI..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Vaše dostupné opisy"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Zostávajúce voľné popisy"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Potrebujete viac opisov?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Prihláste sa a získajte mesačné žetóny."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Predplaťte si teraz"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Generovanie nového opisu"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Prepísať aktuálny opis"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "Optimalizácia popisu pre SEO"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Generovanie opisu pomocou umelej inteligencie"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Ste pripravení na prechod na umelú inteligenciu?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Pripojte sa k našej AI"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Ručné zadanie Popis"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "Pri spracovaní vašej požiadavky na AI došlo k chybe"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "Nemáte žiadne zostávajúce kredity. Najskôr si zakúpte kredity na opis."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Kúpiť teraz"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "Máte len"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "zostávajúce žetóny. Odporúčame vyššie množstvo."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Zakúpenie ďalších žetónov"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Tak či onak, pokračujte"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Vaše oprávnenie sa zdá byť neplatné."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Opätovné pripojenie k AI"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Vaše predplatné túto akciu nezahŕňa."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Aktualizujte teraz"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Zatvoriť"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Najprv zadajte názov."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Napíšte dlhý a jedinečný opis tohto produktu:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Vyberte tón textu:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Nezáleží na tom"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Teplejšie"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Profesionálne"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Formálne"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Expresívne"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "Vzrušený"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "Inšpiratívne"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Prepíšte tento opis tak, aby bol jedinečný:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Prepíšte tento jedinečný text do"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "tón"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Optimalizujte s ohľadom na tieto kľúčové slová:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "kľúčové slovo1, kľúčové slovo2, kľúčové slovo3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "Optimalizácia pre SEO"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Optimalizujte tento popis produktu pre seo:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Optimalizujte tento popis pre seo a použite kľúčové slová"

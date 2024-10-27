@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Yapay zeka ile Ürün Açıklamaları oluşturmanızı sağlar."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "aiflow Ayarları"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "Oturum durumunuz kontrol edilirken bir hata oluştu. Lütfen tekrar bağlanın."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Giriş yapmadınız."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Yapay zekamızı kullanmaya başlamak için platformumuzda hesabınızla oturum açmanız gerekir."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Bizimle bağlantı kurmak veya bir hesap oluşturmak için aşağıdaki düğmeyi tıklayın."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Hesabınızı şimdi bağlayın"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Bağlandınız."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Hesabı yönet"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Bağlantıyı Kes"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Yapay zeka bağlantısı kontrol ediliyor..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Mevcut açıklamalarınız"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Kalan ücretsiz açıklamalar"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Daha fazla açıklama ister misiniz?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Şimdi abone olun ve aylık token kazanın."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Şimdi abone olun"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Yeni açıklama oluşturun"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Mevcut açıklamayı yeniden yazın"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "SEO için açıklamayı optimize edin"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Yapay Zeka ile Açıklama Oluşturun"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Yapay zekaya adım atmaya hazır mısınız?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Yapay zekamıza bağlanın"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Açıklamayı manuel olarak girin"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "AI'da isteğiniz işlenirken bir hata oluştu"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "Hiç krediniz kalmadı. Lütfen önce açıklama kredisi satın alın."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Şimdi satın alın"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "Sen sadece"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "kalan jetonlar. Daha yüksek bir miktar öneriyoruz."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Daha fazla jeton satın alın"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Yine de devam edin"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Yetkiniz geçersiz görünüyor."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Yapay zekaya tekrar bağlanın"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Aboneliğiniz bu işlemi içermez."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Şimdi yükseltin"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Kapat"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Lütfen önce bir başlık girin."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Bu ürün için uzun ve benzersiz bir ürün açıklaması yazın:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Metin tonunu seçin:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Önemli değil"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Daha sıcak"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Profesyonel"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Resmi"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Etkileyici"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "Heyecanlı"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "İlham verici"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Bu açıklamayı benzersiz olacak şekilde yeniden yazın:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Bu benzersiz metni bir"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "ton"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Bu anahtar kelimeleri göz önünde bulundurarak optimize edin:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "anahtar kelime1, anahtar kelime2, anahtar kelime3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "SEO için optimize edin"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Bu ürün açıklamasını seo için optimize edin:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Bu açıklamayı seo için optimize edin ve anahtar kelimeleri kullanın"

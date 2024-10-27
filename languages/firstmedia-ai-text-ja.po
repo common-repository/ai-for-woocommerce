@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "アイウー"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "AIによる商品説明文の生成を可能にします。"
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "ファーストメディア・ソリューションズ社"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "aiflow 設定"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "設定方法"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "セッションの状態を確認する際にエラーが発生しました。もう一度接続してください。"
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "サインインしていません。"
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "AIの利用を開始するには、当社のプラットフォームでアカウントにサインインしていただく必要があります。"
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "以下のボタンをクリックして、当社と接続またはアカウントを作成してください。"
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "今すぐアカウントに接続する"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "つながっていますね。"
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "アカウント管理"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "ディスコネクト"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "AIとの接続を確認する..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "使用可能な説明文"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "自由記述の残り"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "もっと説明が必要ですか？"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "今すぐ購読して、毎月トークンを手に入れよう。"
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "今すぐ登録する"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "新しい説明文を生成する"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "現在の記述を書き換える"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "SEOのためにディスクリプションを最適化する"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "AIで説明文を生成する"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "AIへの飛躍の準備はできていますか？"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "私たちのAIとつながる"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "説明文を手動で入力する"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "AIでお客様のリクエストを処理する際にエラーが発生しました。"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "クレジットの残りがありません。まずは説明クレジットを購入してください。"
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "今すぐ購入する"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "だけしかありません。"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "トークンの残量がより高い金額を推奨します。"
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "トークンの追加購入"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "とにかく続けること"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "あなたの認証は無効のようです。"
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "再びAIに接続する"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "お客様の購読には、このアクションは含まれていません。"
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "今すぐアップグレードする"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "閉じる"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "最初にタイトルを入力してください。"
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "この商品について、長く、ユニークな商品説明を書いてください。"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "テキストトーンを選択します。"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "関係ない"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "ウォーマー"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "プロフェッショナル"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "正式には"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "表現力"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "エキサイティング"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "インスピレーショナル"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "この説明文をユニークなものになるように書き換えてください。"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "このユニークなテキストを書き換えることで"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "トーン"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "これらのキーワードを意識して最適化する。"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "キーワード1、キーワード2、キーワード3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "SEOに最適化する"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "この商品説明文をseoに最適化する。"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "このディスクリプションをseo用に最適化し、キーワードを使用します。"

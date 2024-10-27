@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="AI for WooCommerce">
+  <domain name="firstmedia-ai-text">
+    <project name="AI for WooCommerce" slug="firstmedia-ai-text">
+      <source>
+        <directory>.</directory>
+      </source>
+      <target>
+        <directory>languages</directory>
+      </target>
+      <template>
+        <file>languages/firstmedia-ai-text.pot</file>
+      </template>
+    </project>
+  </domain>
+</bundle>

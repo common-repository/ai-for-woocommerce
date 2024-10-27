@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Memungkinkan Anda membuat Deskripsi Produk dengan AI."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "Pengaturan aiflow"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "Terjadi kesalahan saat memeriksa status sesi Anda. Silakan sambungkan kembali."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Anda tidak masuk."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Untuk mulai menggunakan AI kami, Anda harus masuk dengan akun Anda di platform kami."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Klik tombol di bawah ini untuk terhubung atau membuat akun dengan kami."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Hubungkan akun Anda sekarang"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Anda telah terhubung."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Kelola akun"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Putuskan sambungan"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Memeriksa koneksi ke AI..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Deskripsi Anda yang tersedia"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Deskripsi gratis yang tersisa"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Perlu penjelasan lebih lanjut?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Berlangganan sekarang dan dapatkan token bulanan."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Berlangganan sekarang"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Buat deskripsi baru"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Tulis ulang deskripsi saat ini"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "Optimalkan deskripsi untuk SEO"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Hasilkan Deskripsi dengan AI"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Apakah Anda siap untuk melakukan lompatan ke AI?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Terhubung ke AI kami"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Masukkan Deskripsi secara manual"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "Terjadi kesalahan saat memproses permintaan Anda di AI"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "Anda tidak memiliki sisa kredit. Silakan beli kredit deskripsi terlebih dahulu."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Beli sekarang"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "Anda hanya memiliki"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "token yang tersisa. Kami merekomendasikan jumlah yang lebih tinggi."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Beli lebih banyak token"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Lanjutkan saja."
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Otorisasi Anda tampaknya tidak valid."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Terhubung ke AI lagi"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Langganan Anda tidak termasuk tindakan ini."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Tingkatkan sekarang"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Tutup"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Silakan masukkan judul terlebih dahulu."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Tuliskan deskripsi produk yang panjang dan unik untuk produk ini:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Memilih nada teks:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Tidak masalah"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Lebih hangat"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Profesional"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Formal"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Ekspresif"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "Bersemangat"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "Inspiratif"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Tulis ulang deskripsi ini sehingga unik:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Tulis ulang teks unik ini dalam sebuah"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "nada"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Optimalkan dengan mempertimbangkan kata kunci ini:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "kata kunci1, kata kunci2, kata kunci3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "Optimalkan untuk SEO"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Optimalkan deskripsi produk ini untuk seo:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Optimalkan deskripsi ini untuk seo dan gunakan kata kunci"

@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Permite gerar descrições de produtos com AI."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "Configurações aiflow"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Configurações"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "Ocorreu um erro ao verificar o status de sua sessão. Por favor, conecte-se novamente."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Você não está inscrito."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Para começar a usar nossa IA, você tem que entrar com sua conta em nossa plataforma."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Clique no botão abaixo para conectar-se ou criar uma conta conosco."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Conecte sua conta agora"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Você está conectado."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Gerenciar conta"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Desconectar"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Verificação da conexão com AI..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Suas descrições disponíveis"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Descrições livres restantes"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Precisa de mais descrições?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Inscreva-se agora e receba mensalmente as fichas."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Inscreva-se agora"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Gerar nova descrição"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Re-escrever a descrição atual"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "Otimizar a descrição para SEO"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Gerar Descrição com AI"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Você está pronto para dar o salto para a IA?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Conecte-se a nossa IA"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Digite manualmente Descrição"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "Ocorreu um erro ao processar seu pedido sobre a IA"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "Você não tem créditos restantes. Por favor, compre primeiro os créditos de descrição."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Comprar agora"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "Você tem apenas"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "tokens restantes. Recomendamos uma quantidade maior."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Adquira mais fichas"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Continuar de qualquer forma"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Sua autorização parece ser inválida."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Conecte-se novamente à IA"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Sua assinatura não inclui esta ação."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Atualização agora"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Fechar"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Por favor, digite um título primeiro."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Escreva uma descrição longa e única do produto para este produto:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Escolha o tom do texto:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Não importa"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Aquecedor"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Profissional"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Formal"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Expressivo"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "Excited"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "Inspiracional"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Reescreva esta descrição para que ela seja única:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Reescreva este texto único em um"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "tom"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Otimizar com estas palavras-chave em mente:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "palavra-chave1, palavra-chave2, palavra-chave3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "Otimizar para SEO"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Otimize esta descrição do produto para o seo:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Otimize esta descrição para seo e use as palavras-chave"

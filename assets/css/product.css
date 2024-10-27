@@ -1,0 +1,95 @@
+/***
+Product Page Style
+***/
+.ai-overlay {
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    z-index:1000;
+    background:#f3f3f3ba;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:1.8em;
+}
+.ai-overlay .ai-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:1.8em; 
+    padding: 8.8rem; 
+    position: relative; 
+    flex-wrap: wrap;
+}
+.ai-overlay .ai-container::before {
+    content: '';
+    display: block; position: absolute; top: 0; bottom: 0; left: 0; right: 0;
+    background-color: #c2c2ce30;
+    z-index: -1;
+    mask-image: url('../images/ai_icon.svg');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    -webkit-mask-image: url('../images/ai_icon.svg');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+}
+@keyframes spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+.button.ai {
+    position: relative;
+}
+.button.ai::before {
+    content: "";
+    display: none;
+    width: 1.4em;
+    height: 1.4em;
+    box-sizing: border-box;
+    transform-origin: center;
+    backface-visibility: hidden;
+}
+.button.ai.loading::before {
+    display: block;
+    animation: spin 1s linear infinite;
+    border-radius: 50%;
+    border: 0.3em solid currentColor;
+    border-left-color: transparent;
+}
+.button.ai.loading svg {
+    display: none;
+}
+
+#ai-regenerate-div {
+    padding-top: 6px;
+    margin-bottom: 1em;
+    padding-left: 14px;
+}
+#ai-regenerate-div>div {
+    display: flex;
+    gap: 1rem;
+}
+
+.button.ai {
+    display: flex;
+    gap: 0.3rem;
+    align-items: center;
+}
+.ai .full {
+    flex-basis: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.4rem;
+}
+.ai.keywords {
+    min-width: 250px;
+}

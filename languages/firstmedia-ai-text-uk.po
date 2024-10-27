@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Дозволяє створювати описи товарів за допомогою ШІ."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "aiflow Налаштування"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Налаштування"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "Виникла помилка при перевірці статусу сеансу. Будь ласка, підключіться ще раз."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Ви не ввійшли в систему."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Щоб почати використовувати наш штучний інтелект, вам потрібно увійти у свій обліковий запис на нашій платформі."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Натисніть кнопку нижче, щоб підключитися або створити обліковий запис."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Підключіть свій обліковий запис зараз"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Ви пов'язані."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Керування обліковим записом"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Від'єднати"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Перевірка з'єднання зі штучним інтелектом."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Ваші доступні описи"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Залишилися безкоштовні описи"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Потрібно більше описів?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Підпишіться зараз і отримуйте щомісяця токени."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Підпишіться зараз"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Створити новий опис"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Переписати поточний опис"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "Оптимізуйте опис для SEO"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Створюйте опис за допомогою ШІ"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Чи готові ви до переходу на ШІ?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Підключіться до нашого штучного інтелекту"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Вручну введіть Опис"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "Виникла помилка при обробці вашого запиту на ШІ"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "У вас не залишилося кредитів. Будь ласка, спочатку придбайте кредити на опис."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Придбайте зараз"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "У вас є тільки"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "токенів, що залишилися. Ми рекомендуємо більшу суму."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Придбайте більше токенів"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Все одно продовжуйте."
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Здається, ваш дозвіл недійсний."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Знову підключіться до ШІ"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Ваша підписка не включає цю акцію."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Оновіть зараз"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Закрити"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Будь ласка, спочатку введіть назву."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Напишіть довгий, унікальний опис товару для цього продукту:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Виберіть тон тексту:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Не має значення"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Тепліше."
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Професіонал"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Формальний"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Виразний"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "З хвилюванням."
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "Надихаюче."
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Перепишіть цей опис так, щоб він був унікальним:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Перепишіть цей унікальний текст у вигляді"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "тон"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Оптимізуйте з урахуванням цих ключових слів:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "ключове слово1, ключове слово2, ключове слово3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "Оптимізація для SEO"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Оптимізуйте цей опис товару для seo:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Оптимізуйте цей опис для seo і використовуйте ключові слова"

@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Vă permite să generați descrieri de produse cu ajutorul inteligenței artificiale."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "Setări aiflow"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Setări"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "S-a produs o eroare la verificarea stării sesiunii. Vă rugăm să vă conectați din nou."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Nu sunteți conectat."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Pentru a începe să utilizați AI-ul nostru, trebuie să vă conectați cu contul dvs. pe platforma noastră."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Faceți clic pe butonul de mai jos pentru a vă conecta sau pentru a vă crea un cont la noi."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Conectează-ți contul acum"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Sunteți conectat."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Gestionați contul"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Deconectați"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Verificarea conexiunii cu AI..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Descrierile dvs. disponibile"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Descrieri libere rămase"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Aveți nevoie de mai multe descrieri?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Abonează-te acum și primește jetoane lunare."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Abonează-te acum"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Generarea unei noi descrieri"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Rescrierea descrierii actuale"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "Optimizați descrierea pentru SEO"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Generarea descrierii cu ajutorul AI"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Sunteți gata să faceți saltul către IA?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Conectați-vă la AI-ul nostru"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Introduceți manual Descrierea"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "S-a produs o eroare la procesarea cererii dvs. pe AI"
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "Nu mai aveți credite rămase. Vă rugăm să cumpărați mai întâi credite de descriere."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Cumpărați acum"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "Aveți doar"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "jetoane rămase. Vă recomandăm o sumă mai mare."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Cumpărați mai multe jetoane"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Continuați oricum"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Se pare că autorizația dvs. nu este valabilă."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Conectați-vă din nou la AI"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Abonamentul dumneavoastră nu include această acțiune."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Actualizați acum"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Închideți"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Vă rugăm să introduceți mai întâi un titlu."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Scrieți o descriere lungă și unică pentru acest produs:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Alegeți tonul textului:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Nu contează"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Mai cald"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Profesional"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Formal"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Expresiv"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "Excitat"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "Inspirațional"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Rescrieți această descriere astfel încât să fie unică:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Rescrieți acest text unic într-un"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "ton"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Optimizați cu aceste cuvinte cheie în minte:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "cuvânt cheie1, cuvânt cheie2, cuvânt cheie3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "Optimizarea pentru SEO"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Optimizați această descriere a produsului pentru seo:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Optimizați această descriere pentru seo și folosiți cuvintele cheie"

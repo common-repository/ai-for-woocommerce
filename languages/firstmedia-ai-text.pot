@@ -1,0 +1,256 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: firstmedia-ai-text\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr ""
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr ""
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr ""
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr ""
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr ""
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr ""
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr ""
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr ""
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr ""
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr ""
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr ""
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr ""
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr ""
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr ""
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr ""
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr ""
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr ""
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr ""
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr ""
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr ""
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr ""
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr ""
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr ""
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr ""
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr ""
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr ""
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr ""
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr ""
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr ""
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr ""
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr ""
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr ""
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr ""
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr ""
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr ""
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr ""
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr ""
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr ""
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr ""
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr ""
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr ""
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr ""
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr ""
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr ""
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr ""
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr ""
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr ""
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr ""
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr ""
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr ""
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr ""
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr ""
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr ""
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr ""
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr ""

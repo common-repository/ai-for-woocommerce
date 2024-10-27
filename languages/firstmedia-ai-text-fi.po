@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Voit luoda tuotekuvauksia tekoälyn avulla."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "aiflow Asetukset"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Asetukset"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "Istunnon tilan tarkistamisessa tapahtui virhe. Ole hyvä ja muodosta yhteys uudelleen."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Et ole kirjautunut sisään."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Aloittaaksesi tekoälyn käytön sinun on kirjauduttava sisään tililläsi alustallamme."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Napsauta alla olevaa painiketta luodaksesi yhteyden tai tilin kanssamme."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Yhdistä tilisi nyt"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Olet yhteydessä."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Hallitse tiliä"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Irrota"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Tarkistan yhteyden AI:hen..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Käytettävissä olevat kuvaukset"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Vapaat kuvaukset jäljellä"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Tarvitsetko lisää kuvauksia?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Tilaa nyt ja saat kuukausittaisia kuponkia."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Tilaa nyt"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Luo uusi kuvaus"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Kirjoita nykyinen kuvaus uudelleen"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "Optimoi kuvaus SEO:ta varten"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Luo kuvaus tekoälyn avulla"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Oletko valmis siirtymään tekoälyyn?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Yhdistä tekoälyyn"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Kirjoita kuvaus manuaalisesti"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "AI:n pyyntöäsi käsiteltäessä tapahtui virhe."
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "Sinulla ei ole yhtään krediittiä jäljellä. Osta ensin kuvauskrediittejä."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Osta nyt"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "Sinulla on vain"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "merkkejä jäljellä. Suosittelemme suurempaa määrää."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Osta lisää poletteja"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Jatka joka tapauksessa"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Valtuutuksesi näyttää olevan virheellinen."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Yhdistä tekoälyyn uudelleen"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Tilauksesi ei sisällä tätä toimintoa."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Päivitä nyt"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Sulje"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Kirjoita ensin otsikko."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Kirjoita pitkä, ainutlaatuinen tuotekuvaus tälle tuotteelle:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Valitse tekstin sävy:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Ei ole väliä"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Lämpimämpi"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Ammattilainen"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Virallinen"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Ilmeikäs"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "Jännittynyt"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "Inspiroiva"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Kirjoita kuvaus uudelleen niin, että se on ainutlaatuinen:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Kirjoita tämä ainutlaatuinen teksti uudelleen"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "tone"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Optimoi nämä avainsanat mielessäsi:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "avainsana1, avainsana2, avainsana3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "Optimoi SEO:ta varten"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Optimoi tämä tuotekuvaus SEO:ta varten:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Optimoi tämä kuvaus SEO:ta varten ja käytä avainsanoja."

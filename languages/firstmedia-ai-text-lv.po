@@ -1,0 +1,257 @@
+# Copyright (C) 2023 FirstMedia Solutions GmbH
+# This file is distributed under the same license as the aiflow plugin.
+#
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2023-03-07T08:00:38+00:00\n"
+"Project-Id-Version: aiflow 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/firstmedia-ai-text\n"
+"X-Domain: firstmedia-ai-text\n"
+"X-Generator: WP-CLI 2.7.1\n"
+
+#. Plugin Name of the plugin
+#: backend/admin-menu.php:8
+msgid "aiflow"
+msgstr "aiflow"
+
+#. Plugin URI of the plugin
+msgid "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+msgstr "https://www.firstmedia.swiss/angebot/webentwicklung-e-commerce-webhosting/"
+
+#. Description of the plugin
+msgid "Allows you to generate Product Descriptions with AI."
+msgstr "Ļauj ģenerēt produktu aprakstus ar mākslīgo intelektu."
+
+#. Author of the plugin
+msgid "FirstMedia Solutions GmbH"
+msgstr "FirstMedia Solutions GmbH"
+
+#. Author URI of the plugin
+msgid "https://www.firstmedia.swiss"
+msgstr "https://www.firstmedia.swiss"
+
+#: backend/admin-menu.php:7
+#: backend/views/view-options.php:6
+msgid "aiflow Settings"
+msgstr "aiflow iestatījumi"
+
+#: backend/admin-menu.php:69
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: backend/views/view-options.php:14
+msgid "An error occured checking your session status. Please connect again."
+msgstr "Pārbaudot jūsu sesijas statusu, ir notikusi kļūda. Lūdzu, izveidojiet savienojumu vēlreiz."
+
+#: backend/views/view-options.php:15
+msgid "You are not signed in."
+msgstr "Jūs neesat pierakstījies."
+
+#: backend/views/view-options.php:16
+msgid "To Start using our AI, you have to sign in with your account on our platform."
+msgstr "Lai sāktu izmantot mūsu mākslīgo intelektu, jums jāpiesakās mūsu platformā, izmantojot savu kontu."
+
+#: backend/views/view-options.php:17
+msgid "Click the button below to connect or create an account with us."
+msgstr "Noklikšķiniet uz pogas zemāk, lai izveidotu savienojumu vai kontu ar mums."
+
+#: backend/views/view-options.php:19
+msgid "Connect your account now"
+msgstr "Savienojiet savu kontu tagad"
+
+#: backend/views/view-options.php:27
+msgid "You are connected."
+msgstr "Jūs esat savienots."
+
+#: backend/views/view-options.php:28
+msgid "Manage account"
+msgstr "Pārvaldīt kontu"
+
+#: backend/views/view-options.php:29
+msgid "Disconnect"
+msgstr "Atvienojiet"
+
+#: backend/views/view-options.php:32
+msgid "Checking connection to AI..."
+msgstr "Savienojuma ar AI pārbaude..."
+
+#: backend/views/view-options.php:37
+msgid "Your available descriptions"
+msgstr "Jūsu pieejamie apraksti"
+
+#: backend/views/view-options.php:41
+msgid "Free descriptions remaining"
+msgstr "Atlikušie brīvie apraksti"
+
+#: backend/views/view-options.php:47
+msgid "Need more descriptions?"
+msgstr "Nepieciešams vairāk aprakstu?"
+
+#: backend/views/view-options.php:49
+msgid "Subscribe now and get monthly tokens."
+msgstr "Abonējiet tagad un saņemiet ikmēneša žetonus."
+
+#: backend/views/view-options.php:51
+msgid "Subscribe now"
+msgstr "Abonēt tagad"
+
+#: assets/js/product-edit.js:8
+msgid "Generate new description"
+msgstr "Izveidot jaunu aprakstu"
+
+#: assets/js/product-edit.js:9
+#: assets/js/product-edit.js:147
+msgid "Rewrite current description"
+msgstr "Pārrakstīt pašreizējo aprakstu"
+
+#: assets/js/product-edit.js:10
+msgid "Optimize description for SEO"
+msgstr "Optimizēt aprakstu SEO"
+
+#: assets/js/product-edit.js:26
+msgid "Generate Description with AI"
+msgstr "Ģenerēt aprakstu ar mākslīgo intelektu"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Are you ready to take the leap to AI?"
+msgstr "Vai esat gatavs veikt lēcienu uz mākslīgo intelektu?"
+
+#: assets/js/product-edit.js:27
+#: assets/js/product-edit.js:148
+#: assets/js/product-edit.js:172
+msgid "Connect to our AI"
+msgstr "Savienojums ar mūsu mākslīgo intelektu"
+
+#: assets/js/product-edit.js:28
+msgid "Manually enter Description"
+msgstr "Manuāli ievadiet Apraksts"
+
+#: assets/js/product-edit.js:74
+msgid "An error occured when processing your request on the AI"
+msgstr "AI apstrādājot jūsu pieprasījumu, radās kļūda."
+
+#: assets/js/product-edit.js:84
+msgid "You have no credits remaining. Please purchase description credits first."
+msgstr "Jums nav atlikuši kredīti. Lūdzu, vispirms iegādājieties apraksta kredītus."
+
+#: assets/js/product-edit.js:84
+msgid "Purchase now"
+msgstr "Iegādāties tagad"
+
+#: assets/js/product-edit.js:91
+msgid "You have only"
+msgstr "Jums ir tikai"
+
+#: assets/js/product-edit.js:91
+msgid "tokens remaining. We recommend a higher amount."
+msgstr "atlikušie žetoni. Mēs iesakām izmantot lielāku summu."
+
+#: assets/js/product-edit.js:91
+msgid "Purchase more tokens"
+msgstr "Iegādājieties vairāk žetonu"
+
+#: assets/js/product-edit.js:91
+msgid "Continue anyway"
+msgstr "Turpināt tik un tā"
+
+#: assets/js/product-edit.js:97
+msgid "Your authorization seems to be invalid."
+msgstr "Jūsu autorizācija šķiet nederīga."
+
+#: assets/js/product-edit.js:97
+msgid "Connect to AI again"
+msgstr "Atkal izveidojiet savienojumu ar mākslīgo intelektu"
+
+#: assets/js/product-edit.js:103
+msgid "Your subscription does not include this action."
+msgstr "Jūsu abonementā šī darbība nav iekļauta."
+
+#: assets/js/product-edit.js:103
+msgid "Upgrade now"
+msgstr "Atjaunināšana tagad"
+
+#: assets/js/product-edit.js:104
+#: assets/js/product-edit.js:149
+#: assets/js/product-edit.js:173
+msgid "Close"
+msgstr "Aizvērt"
+
+#: assets/js/product-edit.js:126
+msgid "Please enter a title first."
+msgstr "Lūdzu, vispirms ievadiet nosaukumu."
+
+#: assets/js/product-edit.js:128
+msgid "Write a long, unique product description for this product:"
+msgstr "Uzrakstiet garu, unikālu produkta aprakstu šim produktam:"
+
+#: assets/js/product-edit.js:138
+msgid "Choose text tone:"
+msgstr "Izvēlieties teksta toni:"
+
+#: assets/js/product-edit.js:139
+msgid "Does not matter"
+msgstr "Nav nozīmes"
+
+#: assets/js/product-edit.js:140
+msgid "Warmer"
+msgstr "Siltāks"
+
+#: assets/js/product-edit.js:141
+msgid "Professional"
+msgstr "Profesionāls"
+
+#: assets/js/product-edit.js:142
+msgid "Formal"
+msgstr "Oficiālais"
+
+#: assets/js/product-edit.js:143
+msgid "Expressive"
+msgstr "Izteiksmīgs"
+
+#: assets/js/product-edit.js:144
+msgid "Excited"
+msgstr "Satraukti"
+
+#: assets/js/product-edit.js:145
+msgid "Inspirational"
+msgstr "Iedvesmojošs"
+
+#: assets/js/product-edit.js:158
+msgid "Rewrite this description so it is unique:"
+msgstr "Pārrakstiet šo aprakstu, lai tas būtu unikāls:"
+
+#: assets/js/product-edit.js:160
+msgid "Rewrite this unique text in a"
+msgstr "Pārrakstiet šo unikālo tekstu"
+
+#: assets/js/product-edit.js:160
+msgid "tone"
+msgstr "tonis"
+
+#: assets/js/product-edit.js:170
+msgid "Optimize with these keyswords in mind:"
+msgstr "Optimizējiet, paturot prātā šos atslēgas vārdus:"
+
+#: assets/js/product-edit.js:170
+msgid "keyword1, keyword2, keyword3"
+msgstr "atslēgvārds1, atslēgvārds2, atslēgvārds3"
+
+#: assets/js/product-edit.js:171
+msgid "Optimize for SEO"
+msgstr "SEO optimizēšana"
+
+#: assets/js/product-edit.js:183
+msgid "Optimize this product description for seo:"
+msgstr "Optimizēt šo produkta aprakstu seo:"
+
+#: assets/js/product-edit.js:185
+msgid "Optimize this description for seo and use the keywords"
+msgstr "Optimizēt šo aprakstu seo un izmantot atslēgvārdus"

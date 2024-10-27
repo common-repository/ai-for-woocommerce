@@ -1,0 +1,126 @@
+.ai-page {
+    padding-top: 1em;
+}
+/*** Sign in Section **/
+#ai-signin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 75vh;
+}
+#ai-signin .images {
+    position: relative;
+}
+#ai-signin .images>img {
+    max-width: 350px;
+}
+#ai-signin .images>img:nth-child(2), #ai-signin .images>img:nth-child(3) {
+    position: absolute;
+    top: 0; left: 0;
+    opacity: 0.3;
+    transform: scale(1.08);
+}
+#ai-signin .images>img:nth-child(3) {
+    opacity: 0.18;
+    transform: scale(1.23);
+}
+#ai-signin .signin {
+    display: flex;
+    flex-direction: column;
+    background: #f0f0f1;
+    z-index: 35;
+    padding-top: 1rem;
+}
+@media (min-width:880px){
+    #ai-signin {
+        justify-content: flex-start;
+    }
+    #ai-signin>div {
+        display:flex;
+        gap: 1.5rem;
+        align-items: center;
+    }
+    #ai-signin .images>img {
+        min-width: 350px;
+    }
+    #ai-signin .signin {
+        border-left: 2px solid #c7c7c7;
+    }
+    #ai-signin .signin {
+        display: block;
+        min-height: 22rem;
+        padding-left: 2rem;
+        padding-top: 20%;
+    }
+}
+
+/*** My account view **/
+.ai-account-view {
+    display: flex;
+    flex-wrap: wrap;
+}
+.ai-account-view>div {
+    flex-basis: 50%;
+}
+.ai-account-view .tokens {
+    margin: 10px;
+    margin-left: 0;
+    margin-bottom: 0;
+    border-radius: 12px;
+    box-shadow: 1px 2px 10px 0px #c7c7c7;
+    overflow: hidden;
+    
+
+    padding: 2.3rem;
+    border-radius: 0.6rem;
+    background: var(--primary-color);
+
+    
+    
+    position: relative;
+    overflow: hidden;
+    flex: 1 0 75%;
+    color: var(--primary-color-font);
+    
+}
+.ai-account-view .tokens>div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ai-account-view .tokens::before {
+    content: "";
+    background: #ffffff26;
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    right: -42px;
+    border-radius: 200px;
+    bottom: -92px;
+}
+.ai-account-view .tokens::after {
+    content: "";
+    background: #ffffff26;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: -51px;
+    border-radius: 100px;
+    left: -48px;
+}
+.ai-account-view .tokens p {
+    font-size: 1.1rem;
+}
+.ai-account-view .tokens h2 {
+    font-size: 1.8rem;
+    color: var(--primary-color-font);
+}
+.ai-account-view>div>div {
+    margin: 1.4em 0;
+    max-width: 550px;
+}
+.ai-connected {
+    display: flex;
+    gap: 1em;
+    align-items: center;
+}
